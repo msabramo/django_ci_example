@@ -1,6 +1,6 @@
 import datetime
 import os
-import unittest
+import unittest2 as unittest
 
 from selenium import webdriver
 
